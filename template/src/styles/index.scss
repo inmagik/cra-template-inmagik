@@ -1,0 +1,10 @@
+// Customize Bootstrap variables
+@import "variables";
+
+// Boostrap scss
+@import "~bootstrap/scss/bootstrap";
+
+// Utility classes
+.pointer {
+  cursor: pointer;
+}

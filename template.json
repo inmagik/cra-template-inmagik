@@ -1,0 +1,24 @@
+{
+  "package": {
+    "dependencies": {
+      "@testing-library/jest-dom": "^5.11.4",
+      "@testing-library/react": "^11.1.0",
+      "@testing-library/user-event": "^12.1.10",
+      "web-vitals": "^0.2.4",
+      "react-rocketjump": "^2.6.1",
+      "use-eazy-auth": "^1.3.1",
+      "react-router-dom": "^5.2.0",
+      "magik-api": "^0.2.0",
+      "bootstrap": "^4.5.3",
+      "formik": "^2.2.1",
+      "magik-react-hooks": "^2.2.0",
+      "yup": "^0.29.3"
+    },
+    "devDependencies": {
+      "node-sass": "^4.14.1"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    }
+  }
+}
