@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom'
 import './styles/index.scss'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
-// import rjLogger from "react-rocketjump/logger"
+import rjLogger from "react-rocketjump/logger"
 
-// rjLogger()
+rjLogger()
 
 ReactDOM.render(
   <React.StrictMode>
