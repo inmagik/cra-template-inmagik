@@ -33,7 +33,7 @@ export const DetailState = rj({
       updater: 'updateData',
     },
   },
-  effect: (t) => (id) => api.auth(t).get(`/entiy/${id}`),
+  effect: (t) => (id) => api.auth(t).get(`/entity/${id}`),
 })
 
 export const CreateState = rj({
