@@ -20,7 +20,7 @@ function InnerAuth({ children }) {
 function Auth({ children }) {
   return (
     <EazyAuth loginCall={loginCall} meCall={meCall}>
-      <InnerAuth />
+      <InnerAuth>{children}</InnerAuth>
     </EazyAuth>
   )
 }
