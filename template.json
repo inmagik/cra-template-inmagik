@@ -11,7 +11,7 @@
       "magik-api": "^0.3.0",
       "bootstrap": "^4.5.3",
       "formik": "^2.2.1",
-      "magik-react-hooks": "^2.3.0",
+      "magik-react-hooks": "^2.4.0",
       "yup": "^0.32.8"
     },
     "devDependencies": {
