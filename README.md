@@ -1,5 +1,11 @@
 # cra-template
 
+## Use INMAGIK Template
+
+```sh
+npx create-react-app my-app --template inmagik
+```
+
 This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
 
 If you don't specify a template (for example, `--template typescript`), this template will be used by default.
