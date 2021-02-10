@@ -1,4 +1,4 @@
-import EazyAuth from 'use-eazy-auth'
+import EazyAuth, { useAuthActions } from 'use-eazy-auth'
 import { ConfigureRj } from 'react-rocketjump'
 import api from './api'
 
